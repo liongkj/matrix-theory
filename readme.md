@@ -1,10 +1,10 @@
 # Introduction
 Matrix Theory Project
 
-Q1. Jordan Form 
-Q2. Diagonalize matrix
-Q3. Least Square Implementation
+1. Q1. Jordan Form 
+2. Q2. Diagonalize matrix
+3. Q3. Least Square Implementation
 
 # Library used
-Matplotlib
-numpy
+1. Matplotlib
+2. numpy
